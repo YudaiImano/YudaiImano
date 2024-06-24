@@ -1,7 +1,8 @@
 # 🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YudaiImano&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YudaiImano&layout=compact&theme=vue-dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YudaiImano&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YudaiImano&theme=discord)](https://github.com/YudaiImano/github-profile-trophy)
 
